@@ -1,0 +1,172 @@
+h1{
+	text-align: center;
+	font-family: cursive serif;
+	font-style: italic;
+	color: rgb(5, 5, 5);
+	font-size: 4ch;
+}
+
+
+h3{
+	text-align: center;
+	font-size: 3ch;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+
+	font-size: 3ch;
+
+}
+.boot{
+	/* background:#0000FF; */
+	height: 50px;  
+	/* width: 150px; */
+	justify-content: center;
+	margin-bottom: 23px;
+}
+.nom-prenom{
+	display: flex;
+	column-gap: 10px;
+}
+.pays-etat-zip{
+	display: flex;
+	column-gap: 10px;
+	margin-bottom: 15px;
+
+
+}
+.adresse-fact{
+}
+.nom-util,.email,.adresse,.nom,.prenom{
+		margin-bottom: 15px;
+
+}
+.form{
+	margin-bottom: 200px
+}
+
+
+.rempli{
+	display: flex;
+	column-gap: 10px;
+}
+
+.des{
+	position: absolute;
+	
+}
+#mondes{
+	border: none;
+}
+.fle{
+	
+	width: 400px;
+}
+
+.ok{
+	text-align: right;
+}
+
+.tous{
+	/* background-image: url('monim.jpg'); */
+	background-repeat: no-repeat;
+	background-size: cover;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	
+	height: 350px;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+
+.cent{
+	display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    height: 10vh;
+	
+	justify-content: left;
+	margin-bottom: 15px;
+	
+	
+	/* background: #0000FF; */
+
+
+		
+	
+}
+
+.soum{
+	background:#12d4f2;	
+	font-size: 2ch;
+	padding: 7px;
+	border: inherit;
+
+	
+
+}
+
+
+.dis{
+	display: flex;
+	justify-content: center;
+	
+
+
+}
+body{
+	border:  10px solid #12e7f2;
+	/* background: #ff8800; */
+}
+
+.bod{
+	background-color: darkgray;
+	border:  10px solid rgb(14, 210, 240);
+	height: 90vh;
+	justify-content: center;
+	margin: 10px;
+
+}
+.color{
+	 width: 100vh;
+	 height:50vh ;
+	 margin-bottom: 15px;
+	 justify-content: right;
+	 align-items: center;
+
+	 
+}
+.more{
+	width: 250px;
+	height: 25px;
+}
+
+#inputproduit{
+	height: 30px;
+}
+.list{
+	display:block;
+	width: 40vh;
+	height: 50px;
+}
+
+.sizefont{
+	font-size: 3ch;
+	font-family: 'Times New Roman', Times, serif;
+}
+p{
+	font-size: 3ch;
+	font-family: cursive;
+	font-style:italic;
+	justify-content: end;
+
+}
+.slog{
+	justify-content: right;
+	margin-top: 15ch;
+	margin-left: 80ch;
+}
